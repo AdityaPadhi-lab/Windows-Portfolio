@@ -1,5 +1,5 @@
 {
-  "name": "deri-kurniawan",
+  "name": "aditya-padhi",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
@@ -8,7 +8,7 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "flowbite": "^1.5.2",
-    "flowbite-react": "^0.1.6",
+    "flowbite-react": "^0.12.17",
     "framer-motion": "^7.2.1",
     "moment": "^2.29.4",
     "react": "^18.2.0",
@@ -16,7 +16,6 @@
     "react-draggable": "^4.4.5",
     "react-icons": "^4.4.0",
     "react-redux": "^8.0.2",
-    "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
     "workbox-background-sync": "^6.5.4",
     "workbox-broadcast-update": "^6.5.4",
@@ -60,6 +59,9 @@
     "postcss": "^8.4.16",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "^5.0.1",
     "tailwindcss": "^3.1.8"
   }
 }

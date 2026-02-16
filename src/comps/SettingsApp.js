@@ -101,8 +101,8 @@ const SettingsApp = ({
                   alt=""
                 />
                 <div className="flex flex-col items-start justify-center ml-3">
-                  <p>Deri Kurniawan</p>
-                  <p>deri.netuchi@gmail.com</p>
+                  <p>Aditya Padhi</p>
+                  <p>adityapadhi.edu.05@gmail.com</p>
                 </div>
               </div>
               {/* Search */}

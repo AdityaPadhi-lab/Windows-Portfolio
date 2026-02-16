@@ -35,7 +35,7 @@ const initialState = {
       height: 28,
       onClick: () => {
         const textMessage = encodeURIComponent(
-          "Hello Deri Kurniawan!, [your message here]"
+          "Hello Aditya Padhi!, [your message here]"
         );
         window.open(
           `https://wa.me/+6285793677846?text=${textMessage}`,
@@ -51,7 +51,7 @@ const initialState = {
       height: 28,
       onClick: () => {
         window.open(
-          "https://www.google.com/search?q=Deri+Kurniawan+github",
+          "https://www.google.com/search?q=Adity+PadhiLab+github",
           "_blank",
           WIN_FEATURES
         );
@@ -95,7 +95,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://www.google.com/search?q=Deri+Kurniawan+github",
+          "https://www.google.com/search?q=Aditya+PadhiLab+github",
           "_blank",
           WIN_FEATURES
         );
@@ -108,7 +108,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://github.com/deri-kurniawan",
+          "https://github.com/AdityaPadhi-lab",
           "_blank",
           WIN_FEATURES
         );
@@ -121,7 +121,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://linkedin.com/in/deri-kurniawan",
+          "https://www.linkedin.com/in/aditya-padhi-7aa941278/",
           "_blank",
           WIN_FEATURES
         );
@@ -143,7 +143,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         const textMessage = encodeURIComponent(
-          "Hello Deri Kurniawan!, [your message here]"
+          "Hello Aditya Padhi!, [your message here]"
         );
         window.open(
           `https://wa.me/+625720959031?text=${textMessage}`,
@@ -204,7 +204,7 @@ const initialState = {
       icon: icons.apps.winMail,
       width: 35,
       height: 35,
-      onClick: () => (window.location.href = "mailto:deri.netuchi@gmail.com"),
+      onClick: () => (window.location.href = "mailto:adityapadhi.edu.05@gmail.com"),
     },
     // {
     //   name: "Search",
@@ -247,7 +247,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://github.com/deri-kurniawan/deri-kurniawan.github.io",
+          "https://github.com/AdityaPadhi-lab",
           "_blank",
           WIN_FEATURES
         );
@@ -260,7 +260,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://portfolio.deri-kurniawan.vercel.app",
+          "https://portfolio-adityapadhi-labs-projects.vercel.app/",
           "_blank",
           WIN_FEATURES
         );
